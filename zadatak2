@@ -8,5 +8,6 @@
         <h2>Podnaslov</h2>
         <p>Odlomak 1</p>
         <p>Odlomak 2</p>
+        <img src="/slika2.jpg" alt="slika2" title="slika2">
     <body>
 </html>
